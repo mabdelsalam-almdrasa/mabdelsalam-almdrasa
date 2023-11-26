@@ -2,7 +2,6 @@
 
 ### About Me
 - 🚀 Frontend Developer in the making!
-- 💻 Proficient in the fundamentals of Python and C++.
 - 👨‍💻 Passionate about creating engaging and user-friendly web experiences.
 - 📚 Actively learning modern frontend technologies and frameworks.
 - 💡 Open to collaboration and excited about contributing to the tech community.
